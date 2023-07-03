@@ -1,0 +1,82 @@
+const Data = {
+  productItems: [
+    {
+      id: 1,
+      discount: 50,
+      cover: './images/flash/flash-1.png',
+      name: 'Shoes',
+      price: 100,
+    },
+    {
+      id: 2,
+      discount: 40,
+      cover: './images/flash/flash-2.png',
+      name: 'Watch',
+      price: 20,
+    },
+    {
+      id: 3,
+      discount: 40,
+      cover: './images/flash/flash-3.png',
+      name: 'Smart Mobile Black',
+      price: 200,
+    },
+    {
+      id: 4,
+      discount: 40,
+      cover: './images/flash/flash-4.png',
+      name: 'Smart Watch Black',
+      price: 50,
+    },
+    {
+      id: 5,
+      discount: 50,
+      cover: './images/flash/flash-1.png',
+      name: 'Shoes',
+      price: 100,
+    },
+    {
+      id: 6,
+      discount: 50,
+      cover: './images/flash/flash-3.png',
+      name: 'Smart Mobile Black',
+      price: 110,
+    },
+    // {
+    //   id: 7,
+    //   discount: 50,
+    //   cover: './images/flash/flash-5.png',
+    //   name: 'Smart Mobile Black',
+    //   price: 50,
+    // },
+    // {
+    //   id: 8,
+    //   discount: 50,
+    //   cover: './images/flash/flash-6.png',
+    //   name: 'Bracelet',
+    //   price: 78,
+    // },
+    // {
+    //   id: 9,
+    //   discount: 50,
+    //   cover: './images/flash/flash-7.png',
+    //   name: 'Nordic Chair',
+    //   price: 90,
+    // },
+    // {
+    //   id: 10,
+    //   discount: 50,
+    //   cover: './images/flash/flash-8.png',
+    //   name: 'Kruzo Aero Chair',
+    //   price: 120,
+    // },
+    // {
+    //   id: 11,
+    //   discount: 50,
+    //   cover: './images/flash/flash-9.png',
+    //   name: 'Earings',
+    //   price: 88,
+    // },
+  ],
+};
+export default Data;
